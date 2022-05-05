@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="beaf8c64-dc3d-49da-9b47-944ba2108a5c" name="Changes" comment="" />
+    <list default="true" id="beaf8c64-dc3d-49da-9b47-944ba2108a5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +70,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/Users/defaultuser100001.LAPTOP-AJV8GBG8.001"
+    "last_opened_file_path": "C:/Users/honor/.idea/libraries/demoVersion/artifacts"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\honor\.idea\libraries\demoVersion\artifacts" />
       <recent name="C:\Users\honor\.idea\libraries\demoVersion\win" />
     </key>
   </component>
